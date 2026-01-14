@@ -21,6 +21,36 @@ Dalam kehidupan sehari-hari, kita secara otomatis menjadikan bumi sebagai kerang
 
 Namun, bumi bukan satu-satunya kerangka acuan yang sah. Kita bisa memilih kerangka acuan lain, seperti Matahari atau bahkan pusat galaksi. Dalam kerangka acuan galaksi, sebuah mobil yang terparkir di garasi sekalipun akan terlihat bergerak dengan kecepatan yang sangat luar biasa karena ikut terseret oleh rotasi bumi, revolusi bumi, hingga pergerakan tata surya. Tidak ada yang salah dengan pilihan-pilihan ini, selama kerangka acuan yang digunakan dinyatakan dengan jelas.
 
+## KERANGKA ACUAN INERSIA
+Kerangka acuan inersia adalah kerangka acuan yang diam atau bergerak dengan kecepatan konstan (tanpa percepatan), dimana  seluruh hukum Newton bekerja secara normal tanpa memerlukan gaya fiktif tambahan. 
+
+Sebagai contoh, seseorang yang berada di dalam kereta yang sedang melaju lurus dengan kecepatan konstan dapat menjadikan kereta tersebut sebagai kerangka acuan inersia. Jika ia melepaskan sebuah bola dari tangannya, bola itu akan jatuh lurus ke bawah. Perilaku ini sepenuhnya konsisten dengan Hukum I Newton, yang menyatakan bahwa benda akan mempertahankan keadaan geraknya selama tidak dikenai gaya resultan. Bola tersebut sejak awal memiliki kecepatan horizontal yang sama dengan kereta, sehingga tidak ada alasan baginya untuk “tertinggal” atau menyimpang secara horizontal.
+
+Dalam praktik sehari-hari, permukaan bumi sering diperlakukan sebagai kerangka acuan inersia. Meskipun secara konsep bumi adalah kerangka non-inersia karena berotasi dan berevolusi, untuk banyak fenomena mekanika klasik, penyimpangan tersebut cukup kecil sehingga dapat diabaikan. Karena alasan inilah hukum Newton dapat digunakan dengan sangat baik untuk menjelaskan gerak benda di permukaan bumi.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
