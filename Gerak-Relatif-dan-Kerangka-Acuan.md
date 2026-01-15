@@ -26,9 +26,7 @@ Kerangka acuan inersia adalah kerangka acuan yang diam atau bergerak dengan kece
 
 Sebagai contoh, seseorang yang berada di dalam kereta yang sedang melaju lurus dengan kecepatan konstan dapat menjadikan kereta tersebut sebagai kerangka acuan inersia. Jika ia melepaskan sebuah bola dari tangannya, bola itu akan jatuh lurus ke bawah. Perilaku ini sepenuhnya konsisten dengan Hukum I Newton, yang menyatakan bahwa benda akan mempertahankan keadaan geraknya selama tidak dikenai gaya resultan. Bola tersebut sejak awal memiliki kecepatan horizontal yang sama dengan kereta, sehingga tidak ada alasan baginya untuk “tertinggal” atau menyimpang secara horizontal.
 
-Dalam praktik sehari-hari, permukaan bumi sering diperlakukan sebagai kerangka acuan inersia. Meskipun secara konsep bumi adalah kerangka non-inersia karena berotasi dan berevolusi, untuk banyak fenomena mekanika klasik, penyimpangan tersebut cukup kecil sehingga dapat diabaikan. Karena alasan inilah hukum Newton dapat digunakan dengan sangat baik untuk menjelaskan gerak benda di permukaan bumi.
-
-
+Dalam praktik sehari-hari, permukaan bumi sering diperlakukan sebagai kerangka acuan inersia. Walaupun secara teknis bumi merupakan kerangka non-inersia karena berotasi dan berevolusi, pada banyak fenomena mekanika klasik pengaruh penyimpangan dan percepatannya ini sangat kecil sehingga dapat diabaikan. Oleh karena itu, hukum-hukum Newton tetap dapat digunakan dengan sangat baik untuk menjelaskan gerak benda di permukaan bumi.
 
 
 
