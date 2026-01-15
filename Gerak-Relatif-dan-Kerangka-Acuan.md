@@ -5,6 +5,8 @@ Dalam kehidupan sehari-hari, kita sering menggunakan istilah diam dan bergerak s
 
 Dokumentasi ini membahas empat konsep inti yang menjadi fondasi penting sebelum mempelajari teori relativitas, yaitu gerak relatif, kerangka acuan, kerangka acuan inersia, dan kerangka acuan non-inersia.
 
+---
+
 ## GERAK RELATIF
 Gerak relatif adalah gagasan yang menjelaskan bahwa gerak suatu benda selalu bergantung pada pengamatnya(kerangka acuan yang dipilih). Tidak ada benda yang bisa dikatakan bergerak atau diam secara mutlak tanpa menyebutkan relatif terhadap apa benda tersebut.
 
@@ -14,12 +16,16 @@ Konsep ini menjadi jauh lebih luas jika kita memperlebar skala pengamatannya. Se
 
 Dari sini dapat disimpulkan bahwa pernyataan seperti “benda ini bergerak/diam” belum lengkap secara fisika. Pernyataan tersebut baru bermakna jika dilengkapi menjadi "benda ini bergerak/diam relatif terhadap sesuatu”
 
+---
+
 ## KERANGKA ACUAN
 Kerangka acuan adalah sudut pandang atau sistem acuan yang digunakan pengamat untuk mengukur posisi, kecepatan, dan gerak suatu benda. Setiap kerangka acuan memiliki titik patokan, arah pengukuran, dan pengertian waktu yang berdiri sendiri.
 
 Dalam kehidupan sehari-hari, kita secara otomatis menjadikan bumi sebagai kerangka acuan utama. Itulah sebabnya saat kita menyebut sebuah mobil melaju dengan kecepatan 60 km/jam, kita tidak merasa perlu menjelaskan "relatif terhadap jalan raya", karena semua alat ukur kita—seperti speedometer—memang dirancang untuk bekerja dalam kerangka acuan bumi.
 
 Namun, bumi bukan satu-satunya kerangka acuan yang sah. Kita bisa memilih kerangka acuan lain, seperti Matahari atau bahkan pusat galaksi. Dalam kerangka acuan galaksi, sebuah mobil yang terparkir di garasi sekalipun akan terlihat bergerak dengan kecepatan yang sangat luar biasa karena ikut terseret oleh rotasi bumi, revolusi bumi, hingga pergerakan tata surya. Tidak ada yang salah dengan pilihan-pilihan ini, selama kerangka acuan yang digunakan dinyatakan dengan jelas.
+
+---
 
 ## KERANGKA ACUAN INERSIA
 Kerangka acuan inersia adalah kerangka acuan yang diam atau bergerak dengan kecepatan konstan (tanpa percepatan), dimana  seluruh hukum Newton bekerja secara normal tanpa memerlukan gaya fiktif tambahan. 
@@ -28,8 +34,9 @@ Sebagai contoh, seseorang yang berada di dalam kereta yang sedang melaju lurus d
 
 Dalam praktik sehari-hari, permukaan bumi sering diperlakukan sebagai kerangka acuan inersia. Walaupun secara teknis bumi merupakan kerangka non-inersia karena berotasi dan berevolusi, pada banyak fenomena mekanika klasik pengaruh penyimpangan dan percepatannya sangat kecil sehingga dapat diabaikan. Oleh karena itu, hukum-hukum Newton tetap dapat digunakan dengan sangat baik untuk menjelaskan gerak benda di permukaan bumi.
 
-## KERANGKA ACUAN NON-INERSIA
+---
 
+## KERANGKA ACUAN NON-INERSIA
 Berbeda dengan kerangka acuan inersia, kerangka acuan non-inersia adalah kerangka acuan dimana sudut pandang/pengamat mengalami percepatan atau rotasi. Dalam kerangka ini, hukum Newton tidak lagi dapat digunakan secara langsung tanpa penyesuaian tambahan.
 
 Sebagai contoh, ketika ada seseorang  yang berada di dalam mobil yang kemudian direm secara mendadak. Tubuh orang tersebut akan terdorong ke depan, seolah-olah ada gaya yang menariknya ke arah depan. Dorongan ini bukan disebabkan oleh gaya fisik baru yang muncul secara nyata, melainkan oleh fakta bahwa pengamat berada dalam kerangka acuan yang sedang dipercepat. Kerangka acuan mobil dalam kondisi ini adalah kerangka acuan non-inersia.
