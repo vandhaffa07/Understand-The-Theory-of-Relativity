@@ -36,9 +36,6 @@ Sebagai contoh, ketika ada seseorang  yang berada di dalam mobil yang kemudian d
 
 Untuk tetap dapat menggunakan hukum Newton di dalam kerangka acuan non-inersia, diperlukan pengenalan gaya tambahan yang disebut gaya semu atau gaya fiktif. Gaya-gaya ini tidak muncul akibat interaksi fisik antar benda, melainkan sebagai konsekuensi matematis dari pemilihan kerangka acuan yang dipercepat atau berotasi. Contoh gaya semu yang sering dijumpai antara lain gaya sentrifugal dan gaya Coriolis pada kerangka acuan yang berotasi.
 
-Keberadaan gaya semu menjadi penanda utama bahwa suatu kerangka acuan bersifat non-inersia. Jika peristiwa yang sama diamati dari kerangka acuan inersia, gaya-gaya semu tersebut tidak diperlukan sama sekali, dan gerak benda dapat dijelaskan hanya dengan gaya-gaya nyata.
-
-
 
 
 
